@@ -3,6 +3,7 @@ name = "coll_hw"
 version = "0.1.0"
 edition = "2021"
 description = "A solution to the exercises proposed at the end of the collections homework"
+license = "Unlicense"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
